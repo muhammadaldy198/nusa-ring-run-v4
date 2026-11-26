@@ -1,8 +1,8 @@
 # nusa-ring-run-v4
 
-![Nusa Ring Run](https://make.fun/badge/best-flight-game-20261126-0057.svg)
-![Rank](https://make.fun/badge/best-flight-game-20261126-0057/muhammadaldy198/nusa-ring-run-v4/rank.svg)
-![Reward](https://make.fun/badge/best-flight-game-20261126-0057/muhammadaldy198/nusa-ring-run-v4/reward.svg)
+[![make.fun · best-flight-game-20261126-0057](https://make.fun/badge/best-flight-game-20261126-0057.svg)](https://make.fun/bounty/best-flight-game-20261126-0057?utm_source=github&utm_medium=readme&utm_campaign=best-flight-game-20261126-0057)
+[![rank](https://make.fun/badge/best-flight-game-20261126-0057/muhammadaldy198/nusa-ring-run-v4/rank.svg)](https://make.fun/bounty/best-flight-game-20261126-0057/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=best-flight-game-20261126-0057)
+[![reward](https://make.fun/badge/best-flight-game-20261126-0057/muhammadaldy198/nusa-ring-run-v4/reward.svg)](https://make.fun/bounty/best-flight-game-20261126-0057?utm_source=github&utm_medium=readme&utm_campaign=best-flight-game-20261126-0057)
 
 **NUSA RING RUN — fly Elang Nusa around Kepulauan Merapi in one sortie with three
 phases and one real decision.** Take off from runway 36 at Lapangan Terbang Nusa,
